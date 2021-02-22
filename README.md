@@ -1,6 +1,7 @@
 # Lab2
 **Part 1**
 * *Binary-to-BCD Converter*
+
 ![](images/bin2bcd_ss.png)
 
 **Part 2**
